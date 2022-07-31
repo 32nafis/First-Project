@@ -1,0 +1,6 @@
+{
+    "search.exclude": {
+        "Emmet ": true
+    },
+    "search.useParentIgnoreFiles": true
+}
